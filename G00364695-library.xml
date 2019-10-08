@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<technical_books>
+		<book>
+			<title>Mastering SQL</title>
+			<author>Jim Bells</author>
+			<ISBN>125678</ISBN>
+		</book>
+		<book>
+			<title>JavaScript for Dummies</title>
+			<author>John K</author>
+			<ISBN>897564</ISBN>
+		</book>
+	</technical_books>	
+	<cookery_books>
+		<book>
+			<title>Winter recipies</title>
+			<author>Alice M</author>
+			<ISBN>789214</ISBN>
+		</book>
+		<book>
+			<title>Best brazilian steak cuts</title>
+			<author>Matt O</author>
+			<ISBN>4879521</ISBN>
+		</book>
+		</cookery_books>
+</library>
